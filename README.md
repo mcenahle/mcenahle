@@ -4,6 +4,8 @@
 
 💻 但比起广告，我更热爱计算机与网站开发。
 
+> Create wonderful code, build a wonderful world. —— [MillenTec](https://github.com/MillenTec/HelloCode-Animation/)
+
 ### 平时我会：
 
 - 🌐 搭建并维护 [自己的网站](https://www.mcenahle.org.cn)
