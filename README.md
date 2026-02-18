@@ -12,7 +12,7 @@
 
 - 🛠 研究网页结构与服务器运行逻辑
 
-- 🐍 学习 Python，不断提升自己的编程能力
+- 🐍 学习 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)，不断提升自己的编程能力
 
 技术与设计的结合，让我觉得特别有成就感 ✨
 
