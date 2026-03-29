@@ -20,17 +20,19 @@
 
 ### 参与的项目
 
-团队项目：
+#### 团队项目
 
 - [开往](https://www.travellings.cn/) 的 [巡查组成员](https://www.travellings.cn/blog/)
 
 - Minecraft 和其启动器翻译员（[查看我的 Crowdin 个人资料](https://crowdin.com/profile/mcenahle)）
 
-个人项目：
+#### 个人项目
+
+个人网站（例如 `mcenahle.cn`，`mcenahle.org.cn`）的开发、运行和维护
 
 ### 使用的 IDE 和技能
 
-我会使用 Jetbrains 的 IDE 来做网站开发和写 Python 程序。同时，我也了解一些 [Vuepress](https://vuepress.vuejs.org/zh/) 和 [Vitepress](https://vitepress.dev/zh/) SPA（Simple Page Application）。
+我会使用 Jetbrains 的 IDE 来做网站开发和写 Python 程序。同时，我也了解一些 [Vuepress](https://vuepress.vuejs.org/zh/) 和 [Vitepress](https://vitepress.dev/zh/)。
 
 ### 📬 联系方式
 
