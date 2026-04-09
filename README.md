@@ -4,6 +4,11 @@
 
 💻 但比起广告，我更热爱计算机与网站开发。
 
+我的 GitHub 头像是使用 Adobe Illustrator 设计，并使用了以下资源，在此表示感谢：
+
+1. [Google Material Symbols](https://fonts.google.com/icons)；
+2. [Jetbrains Mono Font](https://www.jetbrains.com/zh-cn/lp/mono/)。
+
 > Writing better code, building better websites.
 
 ### 平时我会：
