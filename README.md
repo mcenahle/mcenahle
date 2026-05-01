@@ -11,6 +11,8 @@
 
 > Writing better code, building better websites.
 
+![snake gif](https://raw.githubusercontent.com/mcenahle/mcenahle/output/github-snake.svg)
+
 ### 平时我会：
 
 - 🌐 搭建并维护 [自己的网站](https://mcenahle.cn)
