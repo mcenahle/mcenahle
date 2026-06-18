@@ -1,46 +1,25 @@
-## 👋 你好呀，我是 Mcenahle！
+## 👋 自我介绍
 
-🎓 来自上海市的一名大学生，目前就读于广告学专业。
+你好呀！我是 Mcenahle，一个广告艺术设计专业大专生，但还是很喜欢教育学、医学和代码的（不然就没有我这个 GitHub 账号啦）。
 
-💻 但比起广告，我更热爱计算机与网站开发。
+如果在学校里找不到我：其实我大概率在图书馆。
 
-我的 GitHub 头像是使用 Adobe Illustrator 设计，并使用了以下资源，在此表示感谢：
+至于说我的爱好，其实很广泛，就像我之前说过的：教育学、医学知识和计算机。其中的计算机更是我要重点和大家讨论的：我更喜欢使用 Hexo、VitePress 写文章和整理知识，并通过 Cloudflare、Vercel、Netlify 来完成自动化构建与部署（CI/CD）。当然啦，平时遇到一些有意思的仓库也会直接提交 PR。目前是好几个仓库的贡献者啦。当然，我对于医学、护理学知识，也能说出一点啦。争取继续学！
 
-1. [Google Material Symbols](https://fonts.google.com/icons)；
-2. [Jetbrains Mono Font](https://www.jetbrains.com/zh-cn/lp/mono/)。
+个人除了这种东西之外，还是《To the Moon》的忠实粉丝。就喜欢这种，剧情导向的，几乎没有战斗环节的游戏…
 
-> Writing better code, building better websites.
+我的性格是比较偏友好的，是ISFJ，不太喜欢恶意攻击他人，连说话都要考虑这句话是不是太直了。所以，如果你是真心想要与我交流，或者想要和我成为朋友，我会试图把我最温和的一面展现给你。当然，前提是你也愿意对我很友好哦。
+
+个人联系方式：<hi@mcenahle.com>（正在使用）；<hi@mcenahle.page>（即将启用）。如果必要，我会和你说明我的微信号，以便即时交流的。但不要上来就要微信号；我会很不舒服的哦。
+
+感谢各位最后看到了这里。最后，给各位看看我的精神形象吧。如果用一个二次元角色来形容我自己，我觉得，大概就是这样的感觉：安静、爱学习、喜欢知识，偶尔写代码，也总对未来抱有期待。
+
+![二次元角色](https://s.mn.edu.kg/github/ChatGPT%20Image%202026%E5%B9%B46%E6%9C%8818%E6%97%A5%2021_53_05.png)
+
+----
+
+## 贪吃蛇！！
+
+这是我的贪吃蛇页面，哈哈。
 
 ![snake gif](https://raw.githubusercontent.com/mcenahle/mcenahle/output/github-snake.svg)
-
-### 平时我会：
-
-- 🌐 搭建并维护 [自己的网站](https://mcenahle.cn)
-
-- 🎨 使用广告学相关设计软件制作网站徽标
-
-- 🛠 研究网页结构与服务器运行逻辑
-
-- 🐍 学习 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)，不断提升自己的编程能力
-
-技术与设计的结合，让我觉得特别有成就感 ✨
-
-### 参与的项目
-
-#### 团队项目
-
-- [开往](https://www.travellings.cn/) 的 [巡查组成员](https://www.travellings.cn/blog/)
-
-- Minecraft 和其启动器翻译员（[查看我的 Crowdin 个人资料](https://crowdin.com/profile/mcenahle)）
-
-#### 个人项目
-
-个人网站（例如 `mcenahle.cn`，`mcenahle.org.cn`）的开发、运行和维护
-
-### 使用的 IDE 和技能
-
-我会使用 Jetbrains 的 IDE 来做网站开发和写 Python 程序。同时，我也了解一些 [Vuepress](https://vuepress.vuejs.org/zh/) 和 [Vitepress](https://vitepress.dev/zh/)。
-
-### 📬 联系方式
-
-如果你在浏览我的网站时发现任何问题，欢迎通过 [📧 电子邮件](mailto:admin@mcenahle.sh.cn) 与我联系！
